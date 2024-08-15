@@ -1,0 +1,37 @@
+.col-12{
+    justify-content: center;
+    display: flex;
+}
+img{
+    width: 80px;
+    height: 80px;
+    padding: 15px;
+    margin: auto;
+}
+.box{
+    width: 80px;
+    height: 80px;
+    border: 2px solid white;
+}
+.marginL{
+  
+    border-left: none;
+}
+.marginR{
+
+   border-right: none;
+}
+.marginT{
+
+    border-top: none;
+ }
+ .marginB{
+
+    border-bottom: none;
+ }
+body{
+    background-color: black;
+}
+.container{
+    margin-top: 200px;
+}
